@@ -5,7 +5,7 @@ Model View Controller using MYSQL/Express
 
 ## Description.
 
-Tech Blogg is a Heroku deployed application, which serves as a CMS-style platform designed for the technologically inclined. It allows those in the tech communtiy to publish blog posts based on their experiences in within the Tech industry. Additionally, the comment section below, allows users to interact and engage with another on Blog posts. The application uses MVC with Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package handles authentication.
+Nates' MVC Tech Blog is a Heroku deployed application, which serves as a CMS-style platform designed for the technologically inclined. It allows those in the tech communtiy to publish blog posts based on their experiences within the Tech industry. Additionally there is a comment section that allows users to interact and engage with another on Blog posts. The application uses MVC with Handlebars.js as the template, Sequelize as the ORM, and the express-session npm package handles authentication.
 
 ## Table of Contents:
 - [Overview](#Overview)
