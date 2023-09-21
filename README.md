@@ -5,7 +5,7 @@ Model View Controller using MYSQL/Express
 
 ## Description.
 
-Nates' MVC Tech Blog is a Heroku deployed application, which serves as a CMS-style platform designed for the technologically inclined. It allows those in the tech communtiy to publish blog posts based on their experiences within the Tech industry. Additionally there is a comment section that allows users to interact and engage with another on Blog posts. The application uses MVC with Handlebars.js as the template, Sequelize as the ORM, and the express-session npm package handles authentication.
+Nates' MVC Tech Blog is a Heroku deployed application, which serves as a CMS-style platform designed for the technologically inclined. It allows those in the tech communtiy to publish blog posts based on their experiences within the Tech industry. Additionally there is a comment section that allows users to interact and engage with another on Blog posts. The application uses MVC with Handlebars.js as the template, Sequelize as the ORM, and the express-session npm package handles authentication. This App used 
 
 ## Table of Contents:
 - [Overview](#Overview)
@@ -91,9 +91,6 @@ The following animation demonstrates the application functionality:
 ## Deployed Application Link:
 [Deployed Application on Heroku Link:](TBD)
 
-## GitHub Repository:
-[GitHub Repository:](https://github.com/Nweekley84/Nates-MVC)
-
 ## YouTube Walkthrough Video:
 [Click Here to Watch](TBD)
 
@@ -123,7 +120,7 @@ Open the cloned (or downloaded) repository in any source code editor.
 - Visual Studio Code: [Website](https://code.visualstudio.com/)
 
 ## What I Learned:
-1. Implementing Model-View-Controller (MVC) architecture and understanding how the MVC works.
+1. Implementing the Model-View-Controller (MVC) architecture and understanding how the MVC works.
 2. Creating and interacting with a MySQL database using Sequelize with Object Relational Mapping.
 3. Creating and using Express.js servers & routes.
 4. Using Handlebars.js to create and display dynamic templates.
@@ -131,10 +128,10 @@ Open the cloned (or downloaded) repository in any source code editor.
 6. Using Bootstrap for the styling and layout.
 
 ### Future Development:
-1. Toggle Dark/Light mode.
+1. Add a Dark/Light mode feature?
 2. Pagination for blog posts and comments.
 3. The ability to edit and delete comments.
-4. Profile pages.
+4. Add User Profile pages.
 
 ## License & Copyright ©
   
