@@ -72,7 +72,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 ### Tech Blog GIF
 
 The following animation demonstrates the application functionality:
-![](./GIF01.gif)
+![](/GIF01.gif)
 
 ## Usage Instructions:
 
@@ -95,7 +95,7 @@ The following animation demonstrates the application functionality:
 [Click Here to Watch](https://youtu.be/7hvVSYC_0NA)
 
 ## Screenshot:
-![](./SS01.png) 
+![](/SS01.png) 
 
 ## Installation Process
 1. Clone the Repository from GitHub 
