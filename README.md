@@ -69,10 +69,10 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 ```
 
 ## GIF:
-### Figure.1 Tech Blog GIF
+### Tech Blog GIF
 
 The following animation demonstrates the application functionality:
-![](./public/assets/images/GIF01.gif)
+![](./images/GIF01.gif)
 
 ## Usage Instructions:
 
@@ -92,15 +92,34 @@ The following animation demonstrates the application functionality:
 [Deployed Application on Heroku Link:](TBD)
 
 ## YouTube Walkthrough Video:
-[Click Here to Watch](TBD)
+[Click Here to Watch](https://youtu.be/7hvVSYC_0NA)
 
 ## Screenshot:
-![](./public/assets/images/SS01.png) 
+![](./images/SS01.png) 
 
 ## Installation Process
 1. Clone the Repository from GitHub 
 (or) Download Zip Folder from Repository from GitHub
 Open the cloned (or downloaded) repository in any source code editor.
+2. Open the repository and run:
+```console 
+npm init -y
+```
+3. make a .env file in the root directory with your corresponding MySQL DB_NAME, DB_USERNAME, DB_PASSWORD
+4. Run the MYSQL command line:
+```console
+mysql -u root -p
+source db/schema.sql
+use tech_blog_db
+\q
+```
+4. Now to seed and start the server:
+```console
+npm i
+npm run seed
+npm start
+```
+5. Naviagte towards: [http://127.0.0.1/3001](http://127.0.0.1/3001) to test the app!
 
 ## Built With:
 - JSON:[ JSON](https://www.npmjs.com/package/json)
