@@ -89,7 +89,7 @@ The following animation demonstrates the application functionality:
 8. Account Log out: click on "logout" in the navigation menu.
 
 ## Deployed Application Link:
-[Deployed Application on Heroku Link:](TBD)
+[Deployed Application on Heroku Link:](https://infinite-harbor-72074-59c627de35a2.herokuapp.com))
 
 ## YouTube Walkthrough Video:
 [Click Here to Watch](https://youtu.be/7hvVSYC_0NA)
